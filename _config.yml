@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://forkidsmaker1005.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 추천 추천 맛집 갈만한곳
 description: 추천 추천 추천 가성비 선물 맛집 갈만한곳 # this means to ignore newlines until "Language & timezone"
@@ -34,7 +34,7 @@ timezone: KR # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 author:
   type      : # "person" (default), "organization"
   name      : my Name
-  url       :
+  url       : https://forkidsmaker1005.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
